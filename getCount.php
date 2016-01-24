@@ -1,6 +1,6 @@
 <?php
 
-$typeCount = isset($_POST['typeCount']) ? strip_tags($_POST['typeCount']) : "";
+// $typeCount = isset($_POST['typeCount']) ? strip_tags($_POST['typeCount']) : "";
 
 $str = "Something wrong 2 ...";
 
